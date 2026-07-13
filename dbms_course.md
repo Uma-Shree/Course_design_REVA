@@ -1,7 +1,5 @@
-# Course_design_REVA
 
-
-### Database Management Systems (DBMS) - Course Outcomes (COs)
+# Database Management Systems (DBMS) - Course Outcomes (COs)
 
 Upon successful completion of this course, B.Tech students will be able to:
 
