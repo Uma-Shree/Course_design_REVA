@@ -1,5 +1,7 @@
 
 # Database Management Systems (DBMS) - Course Outcomes (COs)
+Course Code : CS-1001
+Credit : 3
 
 Upon successful completion of this course, B.Tech students will be able to:
 
