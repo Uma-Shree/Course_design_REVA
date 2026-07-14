@@ -1,4 +1,4 @@
-# Course Scheme & Curriculum Blueprint: Database Management Systems (DBMS)
+# Database Management Systems (DBMS)
 **Target Program:** Bachelor of Technology (B.Tech)  
 **Academic Credits:** 3 Credits  
 **Core Activity Hours:** 20 Learning Hours
